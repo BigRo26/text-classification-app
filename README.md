@@ -1,6 +1,6 @@
 # Text Classification App
 
-A React-based frontend application for authenticating and classifying text as either AI-generated or human-written.
+A React-based application for authenticating and classifying text as either AI-generated or human-written.
 
 ## Textual Analysis
 
